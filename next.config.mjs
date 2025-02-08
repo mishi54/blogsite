@@ -9,6 +9,8 @@ const nextConfig = {
           },
         ],
       },
+      basePath: '/blogsite',
+      assetPrefix: '/blogsite/',
 };
 
 export default nextConfig;
